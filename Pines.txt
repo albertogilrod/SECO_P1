@@ -1,0 +1,6 @@
+SALIDAS DEL ENCODER
+Pines 3 Y 7
+
+ENCENDER MOTOR
+Pines 4,5 como terminales
+Pin 2 como enable
